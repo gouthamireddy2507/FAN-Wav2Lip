@@ -17,7 +17,7 @@ FAN-Wav2Lip integrates the Wav2Lip model with a Facial Alignment Network (FAN) t
 ---
 
 ## 📂 **Dataset**
-A curated dataset of 100 video clips with diverse linguistic inputs, Hindi subtitles (.srt format), and annotations. [Download Dataset](https://drive.google.com/drive/folders/1cUrcWEcDVC_ED1j3gU7i7YziU0jzjdMM?usp=sharing)
+A curated dataset (**HRS**) of 100 video clips with diverse linguistic inputs, Hindi subtitles (.srt format), and annotations. [Download Dataset](https://drive.google.com/drive/folders/1cUrcWEcDVC_ED1j3gU7i7YziU0jzjdMM?usp=sharing)
 
 
 ## 🛠 **Model Architecture**
