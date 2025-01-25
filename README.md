@@ -87,7 +87,7 @@ The outputs of FAN-Wav2Lip closely resemble the ground truth, outperforming othe
 ## 🔧 **Setup & Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FAN-Wav2Lip.git
+   git clone https://github.com/gouthamireddy2507/FAN-Wav2Lip.git
 2. Install dependencies:
     ```
     pip install -r requirements.txt
